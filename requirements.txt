@@ -1,0 +1,5 @@
+dbt-core==1.7.4
+ipython-sql==0.5.0
+jupyter==1.0.0
+pandas==2.1.4
+sqlalchemy==2.0.25

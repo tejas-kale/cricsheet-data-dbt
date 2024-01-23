@@ -1,0 +1,5 @@
+cricsheet_data:
+  outputs:
+    dev:
+      type: duckdb
+  target: dev
