@@ -1,5 +1,5 @@
-dbt-core==1.7.4
-ipython-sql==0.5.0
-jupyter==1.0.0
-pandas==2.1.4
-sqlalchemy==2.0.25
+dbt-core~=1.7.4
+google-cloud-bigquery~=3.17.1
+jupyter~=1.0.0
+pandas~=2.1.4
+pandas-gbq~=0.20.0
